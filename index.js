@@ -1,6 +1,6 @@
 var fs = require("fs"),
   path = require("path"),
-  File = require("vinyl"),
+//   File = require("vinyl"),
   vfs = require("vinyl-fs"),
   _ = require("lodash"),
   concat = require("concat-stream"),
